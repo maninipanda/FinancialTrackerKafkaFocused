@@ -1,0 +1,7 @@
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\bin\Release\net9.0\publish\FinancialTracker.Application.dll
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\bin\Release\net9.0\publish\FinancialTracker.Application.deps.json
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\bin\Release\net9.0\publish\FinancialTracker.Application.pdb
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\bin\Release\net9.0\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\bin\Release\net9.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\bin\Release\net9.0\publish\FinancialTracker.Domain.dll
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\bin\Release\net9.0\publish\FinancialTracker.Domain.pdb

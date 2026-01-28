@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="ApplicationLayer/FinancialTracker.Application.csproj" Id="8cce6be4-871d-457c-96d0-72c5962a50e6" />
+  <Project Path="docker-compose.dcproj">
+    <Build />
+  </Project>
+  <Project Path="FinancialTracker.Entity/FinancialTracker.Infrastructure.csproj" Id="7fc49b61-c0dd-43e0-a812-d3a99e3750a9" />
+  <Project Path="FinancialTracker.Infrastructure/FinancialTracker.Domain.csproj" Id="2e9f5a2b-3908-409e-ae15-da76a73ad796" />
+  <Project Path="FinancialTrackerKafkaFocused/FinancialTracker.Api.csproj" />
+  <Project Path="NotificationService/NotificationService.csproj" />
+</Solution>

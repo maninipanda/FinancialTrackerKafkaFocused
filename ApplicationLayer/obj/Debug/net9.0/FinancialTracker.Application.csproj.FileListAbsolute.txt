@@ -1,0 +1,15 @@
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\bin\Debug\net9.0\FinancialTracker.Application.deps.json
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\bin\Debug\net9.0\FinancialTracker.Application.dll
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\bin\Debug\net9.0\FinancialTracker.Application.pdb
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\bin\Debug\net9.0\FinancialTracker.Domain.dll
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\bin\Debug\net9.0\FinancialTracker.Domain.pdb
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\obj\Debug\net9.0\FinancialTracker.Application.csproj.AssemblyReference.cache
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\obj\Debug\net9.0\FinancialTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\obj\Debug\net9.0\FinancialTracker.Application.AssemblyInfoInputs.cache
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\obj\Debug\net9.0\FinancialTracker.Application.AssemblyInfo.cs
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\obj\Debug\net9.0\FinancialTracker.Application.csproj.CoreCompileInputs.cache
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\obj\Debug\net9.0\Financia.9E329AFF.Up2Date
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\obj\Debug\net9.0\FinancialTracker.Application.dll
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\obj\Debug\net9.0\refint\FinancialTracker.Application.dll
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\obj\Debug\net9.0\FinancialTracker.Application.pdb
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\ApplicationLayer\obj\Debug\net9.0\ref\FinancialTracker.Application.dll

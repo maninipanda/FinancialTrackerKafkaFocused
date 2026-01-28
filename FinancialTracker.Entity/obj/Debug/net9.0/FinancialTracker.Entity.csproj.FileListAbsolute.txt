@@ -1,0 +1,14 @@
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\FinancialTracker.Entity\bin\Debug\net9.0\FinancialTracker.Entity.deps.json
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\FinancialTracker.Entity\bin\Debug\net9.0\FinancialTracker.Entity.dll
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\FinancialTracker.Entity\bin\Debug\net9.0\FinancialTracker.Entity.pdb
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\FinancialTracker.Entity\obj\Debug\net9.0\FinancialTracker.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\FinancialTracker.Entity\obj\Debug\net9.0\FinancialTracker.Entity.AssemblyInfoInputs.cache
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\FinancialTracker.Entity\obj\Debug\net9.0\FinancialTracker.Entity.AssemblyInfo.cs
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\FinancialTracker.Entity\obj\Debug\net9.0\FinancialTracker.Entity.csproj.CoreCompileInputs.cache
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\FinancialTracker.Entity\obj\Debug\net9.0\FinancialTracker.Entity.dll
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\FinancialTracker.Entity\obj\Debug\net9.0\refint\FinancialTracker.Entity.dll
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\FinancialTracker.Entity\obj\Debug\net9.0\FinancialTracker.Entity.pdb
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\FinancialTracker.Entity\obj\Debug\net9.0\ref\FinancialTracker.Entity.dll
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\FinancialTracker.Entity\bin\Debug\net9.0\FinancialTracker.Entity.runtimeconfig.json
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\FinancialTracker.Entity\obj\Debug\net9.0\FinancialTracker.Entity.csproj.AssemblyReference.cache
+C:\Users\akshy\source\repos\FinancialTrackerKafkaFocused\FinancialTracker.Entity\obj\Debug\net9.0\FinancialTracker.Entity.genruntimeconfig.cache
