@@ -22,6 +22,8 @@ IHost host = Host.CreateDefaultBuilder(args)
         var configuration = hostContext.Configuration;
         // Bind Kafka settings
         services.Configure<KafkaSettings>(configuration.GetSection("KafkaConsumer"));
+        services.Configure<KafkaSettings>(configuration.GetSection("feb-KafkaConsumer"));
+
         services.AddSingleton(sp => sp.GetRequiredService<IOptions<KafkaSettings>>().Value);
 
         // Kafka consumer config
